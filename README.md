@@ -11,7 +11,7 @@
 - Collaboration between national and/or programs will be enabled for further information exchange, for instance with EU energy data space HEU projects.
 
 - **3D printitng** - Printer settings and parts for the DIY harvester.
-- 
+
 &nbsp;
 &nbsp;
 &nbsp;
