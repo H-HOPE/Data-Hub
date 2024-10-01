@@ -2,7 +2,7 @@
 <img src="/images/Logo_istituzionale.png" alt="drawing" width="250"/>
 </div>
 
-# Data-Hub
+# H-HOPE Data-Hub
 
 
 - **H-HOPE DIY harvester measurements database** - Database of the measurements of the DIY harvester in the laboratory.
