@@ -14,10 +14,6 @@
 - **H-Hope Harvester Electronics Design:** manufacture of the H-Hope electronics, enabling the generated electric energy to be stored for instance in a battery
 -	**H-Hope DIY Harvester Use Cases:** estimation of the H-Hope harvester operation in the use cases of the H-Hope project
 
-
-
-- **H-HOPE DIY harvester measurements database** - Database of the measurements of the DIY harvester in the laboratory.
-
 &nbsp;
 &nbsp;
 &nbsp;
