@@ -7,7 +7,7 @@
 
 - <a href="https://github.com/H-HOPE/H-HOPE-3D-printing"> **3D printing basics:** </a>Instructions on how to use 3D printers.
 -	<a href="https://github.com/H-HOPE/H-HOPE-current-meter"> **Water Velocity Measurement:** </a> Manufacture of Current Meter instrument to estimate flow velocity.
--	<a href="https://github.com/H-HOPE/Online-Calculator-and-Assesment-tool"> **H-Hope Calculator and Assesment tool:** </a> Estimate what size the H-Hope harvester should be, this includes cylinder diameter, return spring stiffness, selection of the generator etc.
+-	<a href="https://github.com/H-HOPE/Online-Calculator-and-Assesment-tool"> **H-Hope Calculator and Assesment tool:** </a> Calculate the H-HOPE harvester mechanical power, oscilation freqency and displacement. Assess the manufacturing and maintenance costs of the H-HOPE harvester.
 -	**H-Hope Harvester Mechanical Design:** Manufacture of the H-Hope harvester mechanical components.
 - **H-Hope Harvester Electrical Design:** Manufacture of the H-Hope harvester electrical components.
 - **H-HOPE DIY generator efficency measurements.
